@@ -1,0 +1,6 @@
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\bin\Debug\Aula1App.exe.config
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\bin\Debug\Aula1App.exe
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\bin\Debug\Aula1App.pdb
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\obj\Debug\Aula1App.csprojResolveAssemblyReference.cache
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\obj\Debug\Aula1App.exe
+C:\Users\Fatec\Documents\GitHub\CSharpEstudies\AULA1\Aula1App\Aula1App\obj\Debug\Aula1App.pdb
